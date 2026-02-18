@@ -1,0 +1,64 @@
+{
+    "images": [
+        {
+            "imgPath":"img/places/South-Africa.jpg",
+            "imgLocation": "Table Mountain, South Africa",
+            "description": "Iconic",
+            "date": "01/01/2016"
+        },
+        {
+            "imgPath": "img/places/New-Zealand.jpg",
+            "imgLocation": "Mount Cook (Aoraki), New Zealand",
+            "description": "cloud piecer",
+            "date": "01/02/2016"
+        },
+        {
+            "imgPath": "img/places/Canada-Mount.jpg",
+            "imgLocation": "Mount Assiniboine, Canada",
+            "description": "Matterhorn of the Rockies",
+            "date": "01/03/2016"
+        },
+        {
+            "imgPath": "img/places/Iceland-Mount.jpg",
+            "imgLocation": "Mount Kirkjufell, Iceland",
+            "description": "Greek coastline",
+            "date": "01/04/2016"
+        },
+        {
+            "imgPath": "img/places/Peru-Vinicunca.jpg",
+            "imgLocation": "Vinicunca, Peru",
+            "description": "Budapest skyline",
+            "date": "01/05/2016"
+        },
+        {
+            "imgPath": "img/places/Japan.jpg",
+            "imgLocation": "Mount Fuji, Japan",
+            "description": "Taj Mahal",
+            "date": "01/06/2016"
+        },
+        {
+            "imgPath": "img/places/Argentina.jpg",
+            "imgLocation": "Mount Fitz Roy, Argentina",
+            "description": "Venice",
+            "date": "01/07/2016"
+        },
+        {
+            "imgPath": "img/places/Italy.jpg",
+            "imgLocation": "Tre Cime di Lavaredo (Three Peaks of Lavaredo), Italy",
+            "description": "Hirosaki Castle",
+            "date": "01/08/2016"
+        },
+        {
+            "imgPath": "img/places/Norway.jpg",
+            "imgLocation": "Stetind, Norway",
+            "description": "Seoul",
+            "date": "01/09/2016"
+        },
+        {
+            "imgPath": "img/places/Spain.jpg",
+            "imgLocation": "Montserrat, Spain",
+            "description": "Countryside mountains",
+            "date": "01/10/2016"
+        }
+  ]
+}
