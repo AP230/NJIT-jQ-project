@@ -1,20 +1,20 @@
 body {
     overflow-x: hidden;
     font-family: 'Century Gothic', sans-serif;
-    background-image: url('../img/geometry.jpg');
+    background-image: url('../im');
     background-size: cover;
     background-attachment: fixed;
 }
 
 /* Main container for the slideshow and metadata */
 #photoBooth {
-    padding: 25px; /* Increased padding for better spacing */
-    max-width: 500px; /* Increased max-width for larger display */
+    padding: 50px; /* Increased padding for better spacing */
+    max-width: 800px; /* Increased max-width for larger display */
     width: 90%; /* Keeps width responsive */
     margin: auto;
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: #ffb1ebe6;
     border-radius: 8px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add shadow */
+    box-shadow: 0px 4px 8px rgba(224, 4, 158, 0.2); /* Optional: Add shadow */
 }
 
 /* Holds the displayed photo */
@@ -36,7 +36,7 @@ body {
 .banner {
     font-size: 2rem; /* Increased font size for better readability */
     font-weight: bold;
-    color: #333;
+    color: hsl(247, 100%, 84%);
     /* Optional: Customize the text color */
 }
 
